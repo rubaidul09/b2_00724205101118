@@ -35,6 +35,7 @@ class _SplashScreenState extends
           children: [Image.asset('assets/images/logo.jpg',width: 150),
             const SizedBox(height:5),
           const Text('welcome to MZ',style: TextStyle(fontSize: 20,
+          const Text('my name is muaz',style: TextStyle(fontSize: 20,
               fontWeight:FontWeight.w800),
           ),
           ],
